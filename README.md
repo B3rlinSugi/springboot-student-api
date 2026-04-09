@@ -122,5 +122,14 @@ erDiagram
 [![Portfolio](https://img.shields.io/badge/Portfolio-berlinsugi.vercel.app-4e73df?style=flat&logo=vercel)](https://berlinsugi.vercel.app)
 
 ---
+
+## ⚙️ DevOps & Deployment
+
+- **Platform**: [Railway](https://railway.app)
+- **CI/CD**: Fully automated deployment triggered by `git push` to `main`.
+- **Environment Management**: Dynamic environment variable injection for database credentials.
+- **Artifacts**: Uses the Maven wrapper (`./mvnw`) to ensure consistent build environments across different systems.
+
+---
 <p align="center">Built with ☕ and Spring Boot · High Performance Java Backend</p>
 
