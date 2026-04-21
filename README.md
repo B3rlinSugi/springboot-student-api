@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Spring%20Boot%20Student%20API&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Java%20Backend%20%7C%20Spring%20Boot%203%20%7C%20JWT%20%7C%20MySQL&descAlignY=55&descColor=a8b2d8" />
 
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=535&lines=☕+Enterprise-Grade+Java+Spring+Boot+3+Backend;🧱+Strictly+Enforced+N-Tier+Layered+Architecture;🛡️+Spring+Security+6+with+JWT+Stateless+Filters;🐞+Global+%40RestControllerAdvice+Exception+Handling" alt="Typing SVG" /></a>
 [![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)](https://oracle.com/java)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
